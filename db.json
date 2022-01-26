@@ -11,6 +11,12 @@
             "name":"Naveen Jain",
             "Designation":"Backend Developer",
             "status":"Approved"
+        },
+        {
+            "id":3,
+            "name":"Rohit Pandey",
+            "Designation":"Graphic Designer",
+            "status":"Active"
         }]
        
 }
