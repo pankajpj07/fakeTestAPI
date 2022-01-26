@@ -17,6 +17,12 @@
             "name":"Rohit Pandey",
             "Designation":"Graphic Designer",
             "status":"Active"
+        },
+        {
+            "id":4,
+            "name":"Yash Mantri",
+            "Designation":"Machine Learning Lead",
+            "status":"In-Check"
         }]
        
 }
