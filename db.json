@@ -4,64 +4,64 @@
 				"id": 1,
 				"itemName": "Lays",
 				"itemPrice": 20,
-				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
+				"image": "https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
 				"itemInStock": 200
 			},
 			{
 				"id": 2,
 				"itemName": "Uncle Chips",
 				"itemPrice": 25,
-				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
-				"itemInStock": 0
+				"image": "https://image3.mouthshut.com/images/imagesp/925894097s.jpg",
+				"itemInStock": 10
 			},
 			{
 				"id": 3,
 				"itemName": "Kurkure",
 				"itemPrice": 20,
-				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
+				"image": "https://www.jiomart.com/images/product/original/490003816/kurkure-masala-munch-90-g-product-images-o490003816-p490003816-0-202203171131.jpg",
 				"itemInStock": 200
 			},
 			{
 				"id": 4,
 				"itemName": "Britannia Cake",
 				"itemPrice": 50,
-				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
+				"image": "https://m.media-amazon.com/images/I/71lYQqvzYsL._SL1500_.jpg",
 				"itemInStock": 200
 			},
 			{
 				"id": 5,
 				"itemName": "Bisleri Water",
 				"itemPrice": 20,
-				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
-				"itemInStock": 0
+				"image": "https://5.imimg.com/data5/KY/QU/ZV/SELLER-6060390/1-liter-bisleri-packaged-drinking-water-500x500.jpg",
+				"itemInStock": 30
 			},
 			{
 				"id": 6,
-				"itemName": "Uncle Chips",
-				"itemPrice": 25,
-				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
-				"itemInStock": 0
+				"itemName": "Coke",
+				"itemPrice": 40,
+				"image": "https://images.unsplash.com/photo-1622708862830-a026e3ef60bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29rZSUyMGJvdHRsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+				"itemInStock": 15
 			},
 			{
 				"id": 7,
-				"itemName": "Kurkure",
-				"itemPrice": 20,
-				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
+				"itemName": "Pepsi",
+				"itemPrice": 40,
+				"image": "https://www.jiomart.com/images/product/original/490004176/pepsi-2-l-product-images-o490004176-p490004176-0-202203170742.jpg",
 				"itemInStock": 200
 			},
 			{
 				"id": 8,
-				"itemName": "Britannia Cake",
-				"itemPrice": 50,
-				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
+				"itemName": "Mars",
+				"itemPrice": 30,
+				"image": "https://i.pinimg.com/originals/0b/34/29/0b342919cbd27690601808294672af75.jpg",
 				"itemInStock": 200
 			},
 			{
 				"id": 9,
-				"itemName": "Bisleri Water",
-				"itemPrice": 20,
-				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
-				"itemInStock": 0
+				"itemName": "Kit Kat",
+				"itemPrice": 25,
+				"image": "https://m.media-amazon.com/images/I/71XCogOzuTL._SL1500_.jpg",
+				"itemInStock": 10
 			}
 
 		],
