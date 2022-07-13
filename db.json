@@ -12,7 +12,7 @@
 				"itemName": "Uncle Chips",
 				"itemPrice": 25,
 				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
-				"itemInStock": 200
+				"itemInStock": 0
 			},
 			{
 				"id": 3,
@@ -33,7 +33,7 @@
 				"itemName": "Bisleri Water",
 				"itemPrice": 20,
 				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
-				"itemInStock": 200
+				"itemInStock": 0
 			}
 
 		],
