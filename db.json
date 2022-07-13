@@ -4,30 +4,35 @@
 				"id": 1,
 				"itemName": "Lays",
 				"itemPrice": 20,
+				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
 				"itemInStock": 200
 			},
 			{
 				"id": 2,
 				"itemName": "Uncle Chips",
 				"itemPrice": 25,
+				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
 				"itemInStock": 200
 			},
 			{
 				"id": 3,
 				"itemName": "Kurkure",
 				"itemPrice": 20,
+				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
 				"itemInStock": 200
 			},
 			{
 				"id": 4,
 				"itemName": "Britannia Cake",
 				"itemPrice": 50,
+				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
 				"itemInStock": 200
 			},
 			{
 				"id": 5,
 				"itemName": "Bisleri Water",
 				"itemPrice": 20,
+				"image":"https://m.media-amazon.com/images/I/710dKk4a0cL._SX522_.jpg",
 				"itemInStock": 200
 			}
 
