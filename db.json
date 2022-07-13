@@ -1,35 +1,37 @@
 {
-	"items": [{
-			"id": 1,
-			"itemName": "Lays",
-			"itemPrice": 20,
-			"itemInStock": 200
-		},
-		{
-			"id": 2,
-			"itemName": "Uncle Chips",
-			"itemPrice": 25,
-			"itemInStock": 200
-		},
-		{
-			"id": 3,
-			"itemName": "Kurkure",
-			"itemPrice": 20,
-			"itemInStock": 200
-		},
-		{
-			"id": 4,
-			"itemName": "Britannia Cake",
-			"itemPrice": 50,
-			"itemInStock": 200
-		},
-		{
-			"id": 5,
-			"itemName": "Bisleri Water",
-			"itemPrice": 20,
-			"itemInStock": 200
-		}
+	"vending-machine": {
+		"items": [{
+				"id": 1,
+				"itemName": "Lays",
+				"itemPrice": 20,
+				"itemInStock": 200
+			},
+			{
+				"id": 2,
+				"itemName": "Uncle Chips",
+				"itemPrice": 25,
+				"itemInStock": 200
+			},
+			{
+				"id": 3,
+				"itemName": "Kurkure",
+				"itemPrice": 20,
+				"itemInStock": 200
+			},
+			{
+				"id": 4,
+				"itemName": "Britannia Cake",
+				"itemPrice": 50,
+				"itemInStock": 200
+			},
+			{
+				"id": 5,
+				"itemName": "Bisleri Water",
+				"itemPrice": 20,
+				"itemInStock": 200
+			}
 
-	],
-	"acceptedNotes": [10, 20, 50, 100]
+		],
+		"acceptedNotes": [10, 20, 50, 100]
+	}
 }
